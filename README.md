@@ -16,13 +16,11 @@ This is a simple **Tetris** game implemented in **C++**, using the **Windows Con
 
 ## How to Play
 
-- **Left Arrow Key (←)** → Move left
-- **Right Arrow Key (→)** → Move right
+- **Left Arrow Key (a)** → Move left
+- **Right Arrow Key (d)** → Move right
 - **S** → Move down
-- **W / R** → Rotate the tetromino
+- **R** → Rotate the tetromino
 - **Spacebar** → Instant drop
-- **Y** → Restart after game over
-- **N** → Quit after game over
 
 ## Setup & Compilation
 
