@@ -72,8 +72,12 @@ Use **g++** (MinGW) to compile the program:
 - Implement **better graphics with external libraries (e.g., SDL, OpenGL)**
 - Support **Linux/macOS compatibility**
 
-## Author
+## Pictures  
 
+![Tetris](https://github.com/user-attachments/assets/f3f1b7a8-8ebe-439e-852a-ef83322713d5)
+![Tetris 1](https://github.com/user-attachments/assets/30e3cfaf-7f25-41d8-b537-db88d52d992c)
+
+## Author
 Developed by
 
 Parth Sorathiya - 202401215  
