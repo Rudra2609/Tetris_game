@@ -78,8 +78,8 @@ Use **g++** (MinGW) to compile the program:
 
 Developed by
 
-Parth Sorathiya - 202401215
-Prit Kasundra - 202401453
-Rudra Trivedi - 202401266
-Aaryan Dalsaniya - 202401405
+Parth Sorathiya - 202401215  
+Prit Kasundra - 202401453  
+Rudra Trivedi - 202401266  
+Aaryan Dalsaniya - 202401405  
 
